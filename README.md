@@ -1,7 +1,3 @@
-# Maplosive
-A web map community for creating mapping diagrams and viewing them as semi explosive perspective, layer by layer
-
-
 # 💥 Maplosive 💥
 
 ![License](https://img.shields.io/github/license/maxjonata/Maplosive?style=for-the-badge)
@@ -38,4 +34,4 @@ As an alternative, see GitHub tutorial [How to create a pull request](https://he
 
 This project is under license. See file [LICENSE](LICENSE.md) for details.
 
-[⬆ Back to top](#💥-maplosive-💥)<br>
+[⬆ Back to top](#maplosive)<br>
